@@ -16,7 +16,7 @@ This project analyzes customer shopping behavior using Python, SQL, and Power BI
 
 A retail business wants to better understand customer purchasing behavior and identify the factors that influence sales performance. By analyzing customer demographics, product preferences, spending habits, and seasonal trends, the business aims to improve marketing strategies, enhance customer engagement, and increase revenue through data-driven decision-making.
 
-📄 Detailed business requirements: [Business Problem Document.pdf](Business%20Problem%20Document.pdf)
+📄 Detailed business requirements: [Business Problem Document.pdf](Business%20Problem%20%20Document.pdf)
 
 ---
 
